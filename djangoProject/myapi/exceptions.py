@@ -1,0 +1,2 @@
+class seatOccupiedException(Exception):
+    pass

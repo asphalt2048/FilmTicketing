@@ -1,0 +1,20 @@
+# Byte-compiled / package files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+
+# Django-specific
+*.log
+*.sql
+*.dump
+
+# Environment variables
+.env
+
+.vscode/

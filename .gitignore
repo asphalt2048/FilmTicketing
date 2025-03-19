@@ -14,7 +14,17 @@ env/
 *.sql
 *.dump
 
-# Environment variables
+node_modules/
+dist/
+build/
+
+# Vite cache
+.vite/
+
 .env
+.env.local
+.env.development
+.env.production
 
 .vscode/
+
